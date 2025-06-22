@@ -10,7 +10,7 @@ Using a dataset of 4,000,000 Amazon reviews with binary sentiment labels, the pr
 
 ## Data
 
-- **Source**: Amazon product review dataset (binary sentiment: 1 for positive, 0 for negative)
+- **Source**: [Amazon Polarity](https://huggingface.co/datasets/mteb/amazon_polarity)
 - **Size**: 4,000,000 labeled reviews
   - **Training set:** 3,600,000 reviews  
     - Logistic Regression uses all 3.6 M  
