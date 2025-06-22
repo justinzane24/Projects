@@ -10,7 +10,7 @@ Accurate sales forecasts can help drive better decisions around inventory manage
 
 ## Data
 
-- **Source:** [Superstore Sales Dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
+- **Source:** [Kaggle Superstore Sales dataset](https://www.kaggle.com/datasets/rohitsahoo/sales-forecasting)
 - **Time Frame:** 4 years of daily data
 - **Key Variables:**
   - Sales
