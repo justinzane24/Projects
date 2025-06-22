@@ -27,9 +27,6 @@ and a dashboard for monitoring prediction drift.
 
 ---
 
-## Project Structure
----
-
 ## Dataset
 
 - **Source**: [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
