@@ -32,7 +32,7 @@ and a dashboard for monitoring prediction drift.
 
 ## Dataset
 
-- **Source**: [Kaggle Credit Card Fraud Detection](https://www.kaggle.com/mlg-ulb/creditcardfraud)
+- **Source**: [Kaggle Credit Card Fraud Detection dataset](https://www.kaggle.com/mlg-ulb/creditcardfraud)
 - **Size**: 284,807 transactions over two days (2013)
 - **Fraud cases**: 492 (0.17%)
 - **Features**:
@@ -88,10 +88,3 @@ and a dashboard for monitoring prediction drift.
 - Add economic cost function for threshold tuning (false negative = $$$)
 - Implement model monitoring + concept drift detection
 - Package into a full pipeline using `scikit-learn` or `mlflow`
-
----
-
-## Author
-
-**Justin Feathers**   
-✉ justinzane@gmail.com
