@@ -35,11 +35,4 @@ You can browse them using GitHub's file viewer or clone the repo to run them loc
 
 ---
 
-## Connect with Me
-
-📧 Email: [justinzane24@gmail.com](mailto:justinzane24@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/justin-feathers/)  
-
----
-
 Thanks for visiting!
